@@ -1,5 +1,8 @@
 # travis-ci-VUI-bot
 The voice user interface bot application that tell build status of sync repository on travis-ci.
+
+![untitled](https://user-images.githubusercontent.com/24353841/40277570-da75b652-5c5b-11e8-960e-ceec7ae97de5.png)
+
 # Set up
 ## Repository side
 first, clone this repository
