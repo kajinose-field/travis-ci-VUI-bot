@@ -1,6 +1,5 @@
 require 'sinatra/base'
 require 'sinatra'
-require 'jbuilder'
 require 'travis'
 
 post "/webhook" do
